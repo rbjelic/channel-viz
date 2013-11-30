@@ -14,7 +14,7 @@
 
 	var defaultKey		= 'id6IzugwB6vjLrAbiPzYj7mJpQAr_5Xo_cOL_IALqdI', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1472738518], // Comma separated array of Xively Feed ID numbers
-		applicationName	= '8ktar Company', // Replaces Xively logo in the header
+		applicationName	= '8ktar Co', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
 		dataColor		= '0A1922', // CSS HEX value of color to represent data (omit leading #)
